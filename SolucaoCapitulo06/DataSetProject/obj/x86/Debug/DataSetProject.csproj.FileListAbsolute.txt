@@ -1,0 +1,8 @@
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\bin\Debug\DataSetProject.exe
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\bin\Debug\DataSetProject.pdb
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.csprojResolveAssemblyReference.cache
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.FormDataSetTest.resources
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.Properties.Resources.resources
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.csproj.GenerateResource.Cache
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.exe
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo06\DataSetProject\obj\x86\Debug\DataSetProject.pdb

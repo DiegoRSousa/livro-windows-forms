@@ -1,0 +1,6 @@
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\bin\Debug\ADO_NETProject01.exe.config
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\obj\x86\Debug\ADO_NETProject01.csprojResolveAssemblyReference.cache
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\obj\x86\Debug\ADO_NETProject01.FormNotaEntrada.resources
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\obj\x86\Debug\ADO_NETProject01.FornecedoresCRUD.resources
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\obj\x86\Debug\ADO_NETProject01.Properties.Resources.resources
+C:\Git\CSharp\livro-windows-forms-casa-do-codigo-master\SolucaoCapitulo05\ADO_NETProject01\obj\x86\Debug\ADO_NETProject01.csproj.GenerateResource.Cache
